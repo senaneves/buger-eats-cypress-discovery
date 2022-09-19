@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Márcio Neves",
+        "cpf": "84452155635",
+        "email": "senaneves@gmail.com",
+        "whatsapp": "999999999",
+        "address": {
+            "postalcode": "41254270",
+            "street": "Estrada do Mandu",
+            "number": "560",
+            "datails": "Ap1401",
+            "district": "São Rafael",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Joao Neves",
+        "cpf": "844521556aa",
+        "email": "joao@gmail.com",
+        "whatsapp": "988999999",
+        "address": {
+            "postalcode": "41254270",
+            "street": "Estrada do Mandu",
+            "number": "560",
+            "datails": "Ap1401",
+            "district": "São Rafael",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Pedro Neves",
+        "cpf": "84452155635",
+        "email": "senaneves.gmail.com",
+        "whatsapp": "999999999",
+        "address": {
+            "postalcode": "41254270",
+            "street": "Estrada do Mandu",
+            "number": "560",
+            "datails": "Ap1401",
+            "district": "São Rafael",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
